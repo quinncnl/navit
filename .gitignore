@@ -1,2 +1,14 @@
 /.gitk-tmp.*
 /CMakeLists.txt.user*
+m4
+po
+*.cache
+*.in
+.deps
+Makefile
+*.lo
+*.la
+navit/maps
+.libs
+intl
+config.*
